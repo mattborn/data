@@ -1,0 +1,269 @@
+{
+	"schema": "without",
+	"data": {
+		"matt": [
+			{
+				"item": "restaurant",
+				"subcategory": "expensive",
+				"category": "food",
+				"location": "Yard House",
+				"cost": 42,
+				"date": "2016-01-03"
+			},
+			{
+				"item": "beer",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-03"
+			},
+			{
+				"item": "french fries",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-03"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "fast food",
+				"category": "food",
+				"location": "Jimmy John’s",
+				"cost": 19,
+				"date": "2016-01-03"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-02"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-02"
+			},
+			{
+				"item": "dessert",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-01-01"
+			},
+			{
+				"item": "french fries",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-01"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-01-01"
+			},
+			{
+				"item": "donuts",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "cookies",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "candy",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "cakes",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "dessert",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "fruit snacks",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "ice cream",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "soda",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "lattes",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "hot chocolate",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "crackers",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "french fries",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "pretzels",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "popcorn",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Wendy’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "McDonald’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Taco Bell",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Papa John’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Pizza Hut",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Five Guys",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "restaurant",
+				"subcategory": "expensive",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "expensive",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "delivery",
+				"subcategory": "expensive",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "liquor",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "mindless",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "news",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Netflix",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Amazon",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "butter",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "theater",
+				"subcategory": "",
+				"category": "entertainment",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "clothes",
+				"subcategory": "",
+				"category": "shopping",
+				"date": "2015-12-31"
+			}
+		]
+	}
+}
