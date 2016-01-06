@@ -1,0 +1,214 @@
+{
+	"schema": "metalcore",
+	"data": [
+		{
+			"added": "2016-02-26",
+			"album": "Souvenirs",
+			"artist": "Novelists",
+			"clean vocals": false,
+			"image": "https://pbs.twimg.com/media/CN4h_T0WIAAnfGx.jpg",
+			"keywords": "reminder",
+			"recommend": false,
+			"released": "2016-02-26",
+			"spotify": null
+		},
+		{
+			"added": "2016-01-11",
+			"album": "Ire",
+			"artist": "Parkway Drive",
+			"clean vocals": false,
+			"image": "http://cs623418.vk.me/v623418616/37afd/Q3nrfZAKj7g.jpg",
+			"keywords": "explicit",
+			"recommend": false,
+			"released": "2015-09-27",
+			"spotify": "7712cWOELt2oQyxrlFWY8D"
+		},
+		{
+			"added": "2016-01-09",
+			"album": "Elegies",
+			"artist": "Bury the Kings",
+			"clean vocals": false,
+			"image": "https://f1.bcbits.com/img/a2415900377_5.jpg",
+			"keywords": "",
+			"recommend": false,
+			"released": "2015-09-27",
+			"spotify": "burythekingsaus.bandcamp.com"
+		},
+		{
+			"added": "2016-01-07",
+			"album": "Silence in the Snow",
+			"artist": "Trivium",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CQkyu9rW8AEj0Mq.jpg",
+			"keywords": "classic",
+			"recommend": true,
+			"released": "2015-10-02",
+			"spotify": "5l2xUBNPkPSZB0KVrEXANI"
+		},
+		{
+			"added": "2016-01-07",
+			"album": "Deliverence",
+			"artist": "Heart of a Coward",
+			"clean vocals": true,
+			"image": "http://cs7009.vk.me/v7009867/6aa6/W4HbWe39p_8.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-10-02",
+			"spotify": "5n4i8UrMCeEhiKCnzsaFNU"
+		},
+		{
+			"added": "2016-01-07",
+			"album": "Wake",
+			"artist": "For Today",
+			"clean vocals": true,
+			"image": "http://cs624017.vk.me/v624017671/4fd99/N8GNv3sRNZc.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-10-02",
+			"spotify": "5yYdFUyfMWk1W9cs6JHmLq"
+		},
+		{
+			"added": "2016-01-06",
+			"album": "The Sign",
+			"artist": "Crystal Lake",
+			"clean vocals": true,
+			"image": "https://pp.vk.me/c625229/v625229593/3e008/rkW0jMyzmWI.jpg",
+			"keywords": "braggy, explicit, fast",
+			"recommend": true,
+			"released": "2015-10-07",
+			"spotify": "itun.es/us/pyVd-"
+		},
+		{
+			"added": "2016-01-06",
+			"album": "An Odyssey for the Living",
+			"artist": "Zephyr",
+			"clean vocals": false,
+			"image": "https://pbs.twimg.com/media/CQ3RfolWIAAY2iE.jpg",
+			"keywords": "",
+			"recommend": false,
+			"released": "2015-10-09",
+			"spotify": "0TOGCUwWXs7jsI2cFi7VYn"
+		},
+		{
+			"added": "2016-01-06",
+			"album": "Happiness in Self Descruction",
+			"artist": "The Plot in You",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CRZZPWBUYAAX58F.jpg",
+			"keywords": "explicit, violent",
+			"recommend": false,
+			"released": "2015-10-16",
+			"spotify": "0W2ozL102U4aeUWfc55yyk"
+		},
+		{
+			"added": "2016-01-06",
+			"album": "Vena",
+			"artist": "Coldrain",
+			"clean vocals": true,
+			"image": "http://altwall.net/img/albums/43348_27_08_2015_23_02_332015.jpg",
+			"keywords": "trendy",
+			"recommend": true,
+			"released": "2015-10-23",
+			"spotify": "0ipLiiXsOdeIrXdc0hfpr8"
+		},
+		{
+			"added": "2016-01-06",
+			"album": "Cane Hill EP",
+			"artist": "Cane Hill",
+			"clean vocals": false,
+			"image": "http://is2.mzstatic.com/image/thumb/Music2/v4/87/59/5a/87595a34-b980-6414-cb46-9e98db0f06f8/851741006307.jpg/600x600bb-85.jpg",
+			"keywords": "violent",
+			"recommend": false,
+			"released": "2015-10-23",
+			"spotify": "04mMoC6Z8NqOTvUr9pNuTx"
+		},
+		{
+			"added": "2016-01-05",
+			"album": "The Dying Things We Live For",
+			"artist": "Like Moths to Flames",
+			"clean vocals": true,
+			"image": "https://pp.vk.me/c628024/v628024451/1b128/iaSWoTKTfFU.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-10-23",
+			"spotify": "3mwi9wcSnTOCrijEPecpuq"
+		},
+		{
+			"added": "2016-01-05",
+			"album": "Sonder",
+			"artist": "Forsythia",
+			"clean vocals": false,
+			"image": "https://pp.vk.me/c624816/v624816895/55257/enAgXqkyo74.jpg",
+			"keywords": "explicit, instrumentals",
+			"recommend": false,
+			"released": "2015-11-07",
+			"spotify": "7pnlzVzosDuuwpxx41DWiu"
+		},
+		{
+			"added": "2016-01-05",
+			"album": "Deception",
+			"artist": "The Russian Sleep Experiment",
+			"clean vocals": false,
+			"image": "https://pp.vk.me/c623120/v623120356/55c5d/FdYeKJ5kzss.jpg",
+			"keywords": "breakdowns",
+			"recommend": false,
+			"released": "2015-11-10",
+			"spotify": "3jb4jDFk7ySj4FvAdNmVJo"
+		},
+		{
+			"added": "2016-01-04",
+			"album": "Songs of Soulitude",
+			"artist": "Dream On, Dreamer",
+			"clean vocals": true,
+			"image": "http://cs627924.vk.me/v627924108/2905a/RnxNHEkutPM.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-11-13",
+			"spotify": "6GnSh7zJgSrzOCjyl2ySID"
+		},
+		{
+			"added": "2016-01-04",
+			"album": "Blueprints",
+			"artist": "Wage War",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CUhmki1UYAAxmHY.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-11-27",
+			"spotify": "0k5sQmPj4pW0BcvxKa4wq1"
+		},
+		{
+			"added": "2016-01-04",
+			"album": "Selfish Generation",
+			"artist": "Despite My Deepest Fear",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CVKu3kPW4AAh-7j.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-12-12",
+			"spotify": "5bSgkgADgjCSfyPf4JM1hp"
+		},
+		{
+			"added": "2016-01-04",
+			"album": "Guardians",
+			"artist": "Day Three, Dusk",
+			"clean vocals": false,
+			"image": "https://pp.vk.me/c543100/v543100154/8bc6/JQ4XSmBQI6s.jpg",
+			"keywords": "explicit",
+			"recommend": false,
+			"released": "2015-12-12",
+			"spotify": "6SS5pJgzB9kDwOHAnoepOw"
+		},
+		{
+			"added": "2016-01-09",
+			"album": "",
+			"artist": "",
+			"clean vocals": false,
+			"image": "",
+			"keywords": "",
+			"recommend": false,
+			"released": "2015-09-27",
+			"spotify": null
+		}
+	]
+}

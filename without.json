@@ -3,8 +3,130 @@
 	"data": {
 		"matt": [
 			{
+				"item": "Netflix",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-10"
+			},
+			{
+				"item": "gum",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-10"
+			},
+			{
+				"item": "soda",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-10"
+			},
+			{
+				"item": "McDonald’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-10"
+			},
+			{
+				"item": "dessert",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-09"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-09"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-09"
+			},
+			{
+				"item": "liquor",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-09"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-08"
+			},
+			{
+				"item": "pastries",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-08"
+			},
+			{
+				"item": "Netflix",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2015-01-07"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-07"
+			},
+			{
+				"item": "Netflix",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2015-01-06"
+			},
+			{
+				"item": "butter",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-05"
+			},
+			{
+				"item": "mints",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-05"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-05"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Amarit Thai",
+				"cost": 11,
+				"date": "2016-01-05"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-05"
+			},
+			{
+				"item": "butter",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-04"
+			},
+			{
+				"item": "cable",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2016-01-03"
+			},
+			{
 				"item": "restaurant",
-				"subcategory": "expensive",
+				"subcategory": "extravagant",
 				"category": "food",
 				"location": "Yard House",
 				"cost": 42,
@@ -12,7 +134,7 @@
 			},
 			{
 				"item": "beer",
-				"subcategory": "salty snacks",
+				"subcategory": "alcohol",
 				"category": "food",
 				"date": "2016-01-03"
 			},
@@ -24,11 +146,17 @@
 			},
 			{
 				"item": "carry out",
-				"subcategory": "fast food",
+				"subcategory": "extravagant",
 				"category": "food",
 				"location": "Jimmy John’s",
 				"cost": 19,
 				"date": "2016-01-03"
+			},
+			{
+				"item": "Amazon",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-02"
 			},
 			{
 				"item": "beer",
@@ -41,6 +169,12 @@
 				"subcategory": "salty snacks",
 				"category": "food",
 				"date": "2016-01-02"
+			},
+			{
+				"item": "Amazon",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-01"
 			},
 			{
 				"item": "dessert",
@@ -62,6 +196,12 @@
 			},
 			{
 				"item": "donuts",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "pastries",
 				"subcategory": "sugar",
 				"category": "food",
 				"date": "2015-12-31"
@@ -91,6 +231,12 @@
 				"date": "2015-12-31"
 			},
 			{
+				"item": "fruit juice",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
 				"item": "fruit snacks",
 				"subcategory": "sugar",
 				"category": "food",
@@ -109,6 +255,18 @@
 				"date": "2015-12-31"
 			},
 			{
+				"item": "cereal",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "oatmeal",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
 				"item": "lattes",
 				"subcategory": "sugar",
 				"category": "food",
@@ -116,6 +274,18 @@
 			},
 			{
 				"item": "hot chocolate",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "mints",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "gum",
 				"subcategory": "sugar",
 				"category": "food",
 				"date": "2015-12-31"
@@ -188,19 +358,19 @@
 			},
 			{
 				"item": "restaurant",
-				"subcategory": "expensive",
+				"subcategory": "extravagant",
 				"category": "food",
 				"date": "2015-12-31"
 			},
 			{
 				"item": "carry out",
-				"subcategory": "expensive",
+				"subcategory": "extravagant",
 				"category": "food",
 				"date": "2015-12-31"
 			},
 			{
 				"item": "delivery",
-				"subcategory": "expensive",
+				"subcategory": "extravagant",
 				"category": "food",
 				"date": "2015-12-31"
 			},
@@ -223,7 +393,7 @@
 				"date": "2015-12-31"
 			},
 			{
-				"item": "mindless",
+				"item": "cable",
 				"subcategory": "television",
 				"category": "entertainment",
 				"date": "2015-12-31"
