@@ -13,6 +13,164 @@
 			"spotify": null
 		},
 		{
+			"added": "2016-01-18",
+			"album": "Rising Moon: Setting Sun",
+			"artist": "Sirens and Sailors",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CYj2QORUMAEsUzR.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-08-07",
+			"spotify": "54AE7Q8vk90mev3VaJ3cpk",
+			"tracks": [3]
+		},
+		{
+			"added": "2016-01-18",
+			"album": "Deathless",
+			"artist": "Miss May I",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CXehqFwW8AAyPZe.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-08-07",
+			"spotify": "7k0crayXxhuHFfEjRh2fP7",
+			"tracks": [4]
+		},
+		{
+			"added": "2016-01-15",
+			"album": "Vultures Above, Lions Below",
+			"artist": "Buried in Verona",
+			"clean vocals": true,
+			"image": "https://pp.vk.me/c629411/v629411671/c30b/pTXVAsZp02o.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-08-07",
+			"spotify": "0zFRugEyfGaWuAmhYNk9Z2",
+			"tracks": [10]
+		},
+		{
+			"added": "2016-01-14",
+			"album": "The Youth to Become",
+			"artist": "Stories",
+			"clean vocals": true,
+			"image": "http://cs625230.vk.me/v625230964/2905d/r1KHbwwaeig.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-08-14",
+			"spotify": "7s4ZKxdtMazeYUQFyFPEDT",
+			"tracks": [9]
+		},
+		{
+			"added": "2016-01-14",
+			"album": "Venom",
+			"artist": "Bullet for My Valentine",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CMrKfD0UAAAoTj2.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-08-14",
+			"spotify": "1YjxZhd158jSm2906JqzXF"
+		},
+		{
+			"added": "2016-01-14",
+			"album": "Space EP",
+			"artist": "The Devil Wears Prada",
+			"clean vocals": true,
+			"image": "https://pp.vk.me/c622521/v622521566/3fe9e/81lP-n0jqOo.jpg",
+			"keywords": "favorite",
+			"recommend": true,
+			"released": "2015-08-21",
+			"spotify": "2l75a2E7ezG7mcitvCrFH4"
+		},
+		{
+			"added": "2016-01-13",
+			"album": "Phases",
+			"artist": "I See Stars",
+			"clean vocals": true,
+			"image": "http://cs543106.vk.me/v543106419/4af6/fbWwO6O_TN0.jpg",
+			"keywords": "acoustic, covers",
+			"recommend": true,
+			"released": "2015-08-28",
+			"spotify": "4TCSHfQpGu3VE1LRjcxp9f"
+		},
+		{
+			"added": "2016-01-13",
+			"album": "Lumière",
+			"artist": "The Afterimage",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CQ362NOUAAAjhpN.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-08-28",
+			"spotify": "1YHP4r09SjBIjm6Mj5pmRJ"
+		},
+		{
+			"added": "2016-01-12",
+			"album": "That’s the Spirit",
+			"artist": "Bring Me the Horizon",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CPDa74EU8AAvv3P.jpg",
+			"keywords": "explicit",
+			"recommend": true,
+			"released": "2015-09-11",
+			"spotify": "7FqHuAvmREiIwVXVpZ9ooP"
+		},
+		{
+			"added": "2016-01-12",
+			"album": "The Color Clear",
+			"artist": "Reflections",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CXlxSSGUoAAFJYQ.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-09-18",
+			"spotify": "6NJiDlVuIgY6qLUGq6HAuG"
+		},
+		{
+			"added": "2016-01-12",
+			"album": "Polaris",
+			"artist": "Tesseract",
+			"clean vocals": true,
+			"image": "https://pbs.twimg.com/media/CPQviojUsAAtbMh.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-09-18",
+			"spotify": "1PCD14Vo3hiTbz0l5580Gi"
+		},
+		{
+			"added": "2016-01-12",
+			"album": "Xeno",
+			"artist": "Crossfaith",
+			"clean vocals": true,
+			"image": "http://www.revolvermag.com/wp-content/uploads/2015/09/Crossfaith-Xeno-Album-Artwork.jpg",
+			"keywords": "electronic, explicit",
+			"recommend": true,
+			"released": "2015-09-18",
+			"spotify": "4P05CFADE4YJa9W7aXGe0F"
+		},
+		{
+			"added": "2016-01-12",
+			"album": "To Those Left Behind",
+			"artist": "Blessthefall",
+			"clean vocals": true,
+			"image": "http://www.blessthefallmusic.com/images/to-those-left-behind-album.jpg",
+			"keywords": "",
+			"recommend": true,
+			"released": "2015-09-18",
+			"spotify": "5FWARvEPmYgF2U5TD70lrA"
+		},
+		{
+			"added": "2016-01-11",
+			"album": "Long Live",
+			"artist": "Atreyu",
+			"clean vocals": true,
+			"image": "http://www.rockhard.gr/sites/default/files/field/image/Atreyu_LongLive.jpg",
+			"keywords": "explicit, fast",
+			"recommend": true,
+			"released": "2015-09-18",
+			"spotify": "2OlcdDsCoBsmEjgKJWvEpi"
+		},
+		{
 			"added": "2016-01-11",
 			"album": "Ire",
 			"artist": "Parkway Drive",
@@ -20,7 +178,7 @@
 			"image": "http://cs623418.vk.me/v623418616/37afd/Q3nrfZAKj7g.jpg",
 			"keywords": "explicit",
 			"recommend": false,
-			"released": "2015-09-27",
+			"released": "2015-09-25",
 			"spotify": "7712cWOELt2oQyxrlFWY8D"
 		},
 		{
@@ -198,17 +356,6 @@
 			"recommend": false,
 			"released": "2015-12-12",
 			"spotify": "6SS5pJgzB9kDwOHAnoepOw"
-		},
-		{
-			"added": "2016-01-09",
-			"album": "",
-			"artist": "",
-			"clean vocals": false,
-			"image": "",
-			"keywords": "",
-			"recommend": false,
-			"released": "2015-09-27",
-			"spotify": null
 		}
 	]
 }

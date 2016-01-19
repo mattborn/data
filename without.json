@@ -3,6 +3,128 @@
 	"data": {
 		"matt": [
 			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-18"
+			},
+			{
+				"item": "fruit snacks",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-17"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-17"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Five Guys",
+				"cost": 20,
+				"date": "2016-01-17"
+			},
+			{
+				"item": "donuts",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-17"
+			},
+			{
+				"item": "restaurant",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Parlor Pizza",
+				"cost": 45,
+				"date": "2016-01-16"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-16"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-16"
+			},
+			{
+				"item": "butter",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-16"
+			},
+			{
+				"item": "delivery",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "de cero",
+				"cost": 41,
+				"date": "2016-01-15"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-15"
+			},
+			{
+				"item": "crackers",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-15"
+			},
+			{
+				"item": "french fries",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-14"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-13"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-12"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Lou Malnati’s",
+				"cost": 33,
+				"date": "2016-01-12"
+			},
+			{
+				"item": "Netflix",
+				"subcategory": "streaming",
+				"category": "entertainment",
+				"date": "2016-01-11"
+			},
+			{
+				"item": "popcorn",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-11"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-11"
+			},
+			{
 				"item": "Netflix",
 				"subcategory": "streaming",
 				"category": "entertainment",
@@ -96,14 +218,6 @@
 				"item": "wine",
 				"subcategory": "alcohol",
 				"category": "food",
-				"date": "2016-01-05"
-			},
-			{
-				"item": "carry out",
-				"subcategory": "extravagant",
-				"category": "food",
-				"location": "Amarit Thai",
-				"cost": 11,
 				"date": "2016-01-05"
 			},
 			{
