@@ -3,6 +3,126 @@
 	"data": {
 		"matt": [
 			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-30"
+			},
+			{
+				"item": "restaurant",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Monicals",
+				"cost": 54,
+				"date": "2016-01-30"
+			},
+			{
+				"item": "Culver’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-30"
+			},
+			{
+				"item": "liquor",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-29"
+			},
+			{
+				"item": "lattes",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-29"
+			},
+			{
+				"item": "McDonald’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-29"
+			},
+			{
+				"item": "cable",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2016-01-28"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-28"
+			},
+			{
+				"item": "lattes",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-28"
+			},
+			{
+				"item": "restaurant",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "Punch House",
+				"cost": 22,
+				"date": "2016-01-25"
+			},
+			{
+				"item": "liquor",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-25"
+			},
+			{
+				"item": "beer",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-25"
+			},
+			{
+				"item": "Papa John’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-24"
+			},
+			{
+				"item": "Taco Bell",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-24"
+			},
+			{
+				"item": "dessert",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-01-23"
+			},
+			{
+				"item": "french fries",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-01-23"
+			},
+			{
+				"item": "Wendy’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-01-23"
+			},
+			{
+				"item": "wine",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-01-22"
+			},
+			{
+				"item": "carry out",
+				"subcategory": "extravagant",
+				"category": "food",
+				"location": "",
+				"cost": 20,
+				"date": "2016-01-21"
+			},
+			{
 				"item": "wine",
 				"subcategory": "alcohol",
 				"category": "food",
@@ -188,7 +308,7 @@
 				"item": "Netflix",
 				"subcategory": "streaming",
 				"category": "entertainment",
-				"date": "2015-01-07"
+				"date": "2016-01-07"
 			},
 			{
 				"item": "chips",
@@ -200,7 +320,7 @@
 				"item": "Netflix",
 				"subcategory": "streaming",
 				"category": "entertainment",
-				"date": "2015-01-06"
+				"date": "2016-01-06"
 			},
 			{
 				"item": "butter",
@@ -294,7 +414,7 @@
 				"item": "dessert",
 				"subcategory": "sugar",
 				"category": "food",
-				"date": "2015-01-01"
+				"date": "2016-01-01"
 			},
 			{
 				"item": "french fries",
@@ -306,7 +426,7 @@
 				"item": "chips",
 				"subcategory": "salty snacks",
 				"category": "food",
-				"date": "2015-01-01"
+				"date": "2016-01-01"
 			},
 			{
 				"item": "donuts",
@@ -466,6 +586,12 @@
 			},
 			{
 				"item": "Five Guys",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
+				"item": "Culver’s",
 				"subcategory": "fast food",
 				"category": "food",
 				"date": "2015-12-31"
