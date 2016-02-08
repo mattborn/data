@@ -3,6 +3,78 @@
 	"data": {
 		"matt": [
 			{
+				"item": "cable",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2016-02-07"
+			},
+			{
+				"item": "liquor",
+				"subcategory": "alcohol",
+				"category": "food",
+				"date": "2016-02-07"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-02-07"
+			},
+			{
+				"item": "M Burger",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-02-07"
+			},
+			{
+				"item": "donuts",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2016-02-07"
+			},
+			{
+				"item": "chips",
+				"subcategory": "salty snacks",
+				"category": "food",
+				"date": "2016-02-06"
+			},
+			{
+				"item": "cable",
+				"subcategory": "television",
+				"category": "entertainment",
+				"date": "2016-02-05"
+			},
+			{
+				"item": "McDonald’s",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2016-02-05"
+			},
+			{
+				"item": "oatmeal",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-02-04"
+			},
+			{
+				"item": "ice cream",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-02-03"
+			},
+			{
+				"item": "ice cream",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-02-02"
+			},
+			{
+				"item": "fruit snacks",
+				"subcategory": "sugar",
+				"category": "food",
+				"date": "2015-01-31"
+			},
+			{
 				"item": "beer",
 				"subcategory": "alcohol",
 				"category": "food",
@@ -597,6 +669,12 @@
 				"date": "2015-12-31"
 			},
 			{
+				"item": "M Burger",
+				"subcategory": "fast food",
+				"category": "food",
+				"date": "2015-12-31"
+			},
+			{
 				"item": "restaurant",
 				"subcategory": "extravagant",
 				"category": "food",
@@ -634,12 +712,6 @@
 			},
 			{
 				"item": "cable",
-				"subcategory": "television",
-				"category": "entertainment",
-				"date": "2015-12-31"
-			},
-			{
-				"item": "news",
 				"subcategory": "television",
 				"category": "entertainment",
 				"date": "2015-12-31"
